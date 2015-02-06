@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# ! /usr/bin/env python
+#   -*- coding :  utf-8  -*-
 """ Just doing task one """
 
 Trying to get a hand of this thing. So frustrating ugh!
