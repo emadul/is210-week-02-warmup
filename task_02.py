@@ -3,4 +3,4 @@
 """A file to just echo your name."""
 
 
-print 'Hello Heidy!!'
+print 'Hello Snoopy!'
