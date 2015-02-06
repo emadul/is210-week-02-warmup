@@ -1,0 +1,4 @@
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
+print "Tak 05: Interpreter Directive testing"
